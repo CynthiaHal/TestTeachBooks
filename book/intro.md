@@ -1,4 +1,3 @@
-(intro)=
 Inleiding
 
 TeachBooks is een website die je kunt invullen als een interactief boek. Je hebt er een GitHub -account voor nodig. GitHub is van Microsoft. 
